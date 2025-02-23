@@ -14,4 +14,4 @@ const KV = sequelize.define('KV', {
     },
 });
 
-module.esports = { KV };
+module.exports = { KV };
